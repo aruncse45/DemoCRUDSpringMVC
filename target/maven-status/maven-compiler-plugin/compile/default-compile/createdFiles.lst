@@ -1,0 +1,10 @@
+com/demo/MyWebInitializer.class
+com/demo/dao/PersonDaoImpl.class
+com/demo/controller/PersonController.class
+com/demo/configuration/DemoConfiguration.class
+com/demo/service/PersonService.class
+com/demo/controller/AddController.class
+com/demo/dao/PersonDao.class
+com/demo/service/AddService.class
+com/demo/service/PersonServiceImpl.class
+com/demo/bean/Person.class
